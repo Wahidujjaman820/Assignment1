@@ -1,0 +1,24 @@
+form{
+    margin-left: 450px;
+    background-color: aliceblue;
+    margin-right: 400px;
+}
+input[type=email]{
+    margin-left: 34px;
+}input[type=password]{
+    margin-left: 10px;
+}
+input[type=radio]{
+    margin-left: 40px;
+}
+select[name=division]{
+    margin-left: 20px;
+}
+input[type=submit]{
+    margin-left: 100px;
+    margin-top: 5px;
+    background-color: aqua;
+}
+input[type=submit]:hover{
+background-color: blue;
+}

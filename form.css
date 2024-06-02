@@ -1,0 +1,26 @@
+body{
+    height: 500px;
+    width: 100%;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+form {
+    
+   
+}
+.button{
+    background-color: aquamarine;
+}
+.button:hover{
+    background-color: aqua;
+}
+form a{
+    color: blueviolet;
+}
+fieldset{
+    margin-left:450px ;
+    margin-right: 450px;
+    background-color: azure;
+}
